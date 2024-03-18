@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "lil-gui": "^0.19.2",
+    "vite-plugin-glsl": "^1.2.1",
     "vue": "^3.4.21"
   },
   "devDependencies": {
